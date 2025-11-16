@@ -2,6 +2,9 @@
 
 A Claude skill that automates candidate fitness assessment by systematically comparing resumes against job descriptions to generate structured, evidence-based evaluation reports.
 
+> [!WARNING]
+> This version is VERY VERY ALPHA. **Do not use for production!** There are several critical bugs: [see issues](https://github.com/DaveKT/candidate-fitness-skill/issues). I'll be working on this as I get time. Feel free to fork and issue pull requests with your suggested improvements.
+
 ## Overview
 
 This skill helps hiring managers conduct initial candidate screening by:
